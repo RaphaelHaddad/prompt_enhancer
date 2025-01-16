@@ -3,7 +3,7 @@
 ## Abstract
 EasyPrompt aims to simplify the process of generating accurate images from natural language prompts using advanced Text-to-Text (TtT) and Text-to-Image (TtI) models. We fine-tuned a TtT model using an unsupervised learning method to enhance prompt quality, facilitating better image generation.
 
-[📄 View pdf Report]([https://drive.google.com/file/d/YOUR_FILE_ID/view](https://drive.google.com/file/d/1bL6qJ74Cb519UyjAQtItfVDfUGuhOu54/view?usp=share_link))
+[📄 View PDF Report](https://drive.google.com/file/d/1bL6qJ74Cb519UyjAQtItfVDfUGuhOu54/view?usp=share_link)
 
 ## Introduction
 Recent advancements in AI have significantly improved the capabilities of Text-to-Image models, producing near photo-realistic images. However, users without technical expertise often struggle to generate precise images due to the complexity of prompt engineering. EasyPrompt addresses this by enabling users to input natural, concise prompts while still achieving high-quality image outputs.
